@@ -15,5 +15,6 @@
    - ![wires](https://www.dfliq.net/wp-content/uploads/2014/03/Electrical-wirings-1024x434.jpg)
 7. **PCB Spacers**
    - ![spacers](https://www.rcfastener.com/includes/work/image_cache/png/af3e6268e8317d6346d17be96c40bf2e.thumb.png)
+## Wiring diagram
 
 ## Tasmota firmware
