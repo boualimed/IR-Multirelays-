@@ -22,3 +22,11 @@
 ![image](https://user-images.githubusercontent.com/12487239/211110399-bb8c41f6-82a9-4aa2-b081-74d8e78dfe98.png)
 ![image](https://user-images.githubusercontent.com/12487239/211110453-d2d65e10-2fea-4150-84b6-880406b8297a.png)
 ![image](https://user-images.githubusercontent.com/12487239/211110516-331cc3f0-4093-4492-a69b-e4b4f2f44d2a.png)
+
+go to console and press on any button you chose of your remote control, copy the data that you have got
+now type the folowing rule
+```
+Rule1 ON IrReceived#Data=youdata do Power=0 endon
+Rule1 1
+```
+
