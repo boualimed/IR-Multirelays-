@@ -16,5 +16,6 @@
 7. **PCB Spacers**
    - ![spacers](https://www.rcfastener.com/includes/work/image_cache/png/af3e6268e8317d6346d17be96c40bf2e.thumb.png)
 ## Wiring diagram
+![IR-Multirelays_bb](https://user-images.githubusercontent.com/12487239/211108565-141fa7c1-9af7-4f04-b4ac-ae5f6bde258d.png)
 
 ## Tasmota firmware
