@@ -19,6 +19,6 @@
 ![IR-Multirelays_bb](https://user-images.githubusercontent.com/12487239/211108565-141fa7c1-9af7-4f04-b4ac-ae5f6bde258d.png)
 
 ## Tasmota firmware
-![Capture d’écran (55)](https://user-images.githubusercontent.com/12487239/211109669-bda22c83-e6fc-4844-bcf5-c4b0c57f427c.png)
-![Capture d’écran (56)](https://user-images.githubusercontent.com/12487239/211109684-336b9916-8a67-4ec4-a39d-3ebb7452d896.png)
-![Capture d’écran (58)](https://user-images.githubusercontent.com/12487239/211109700-a5d324ec-5fee-4b62-9a6e-b997a87d9f65.png)
+![image](https://user-images.githubusercontent.com/12487239/211110399-bb8c41f6-82a9-4aa2-b081-74d8e78dfe98.png)
+![image](https://user-images.githubusercontent.com/12487239/211110453-d2d65e10-2fea-4150-84b6-880406b8297a.png)
+![image](https://user-images.githubusercontent.com/12487239/211110516-331cc3f0-4093-4492-a69b-e4b4f2f44d2a.png)
