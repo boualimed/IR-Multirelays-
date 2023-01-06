@@ -29,4 +29,6 @@ now type the folowing rule
 Rule1 ON IrReceived#Data=youdata do Power=0 endon
 Rule1 1
 ```
+![image](https://user-images.githubusercontent.com/12487239/211112395-e18dc015-2f25-4344-a604-5e27242b75f1.png)
+
 
